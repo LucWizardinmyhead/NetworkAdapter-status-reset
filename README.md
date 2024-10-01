@@ -1,0 +1,1 @@
+# NetworkAdapter-status-reset
